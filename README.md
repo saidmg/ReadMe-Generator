@@ -14,7 +14,7 @@ node index.js
 ```
 
 # Video
-![Watch the video](https://drive.google.com/file/d/1tr5TaZtkdfvxmXPWkI5LcI_a-iS1Oc4E/view)
+[![Watch the video](https://drive.google.com/file/d/1tr5TaZtkdfvxmXPWkI5LcI_a-iS1Oc4E/view)](/Capture1.JPG)
 
 # ScreenShot
 ![GitHub Logo](/Capture.JPG)
