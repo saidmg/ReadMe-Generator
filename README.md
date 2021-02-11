@@ -14,14 +14,14 @@ node index.js
 ```
 
 # Video
-[![Watch the video](https://drive.google.com/file/d/1tr5TaZtkdfvxmXPWkI5LcI_a-iS1Oc4E/view)](https://drive.google.com/file/d/1tr5TaZtkdfvxmXPWkI5LcI_a-iS1Oc4E/view)
+![Watch the video](https://drive.google.com/file/d/1tr5TaZtkdfvxmXPWkI5LcI_a-iS1Oc4E/view)
 
 # ScreenShot
 ![GitHub Logo](/Capture.JPG)
 
 # URLS
-* The URLs of the deployed applications:  https://saidmg.github.io/
-* The URLs of the GitHub repositories  :  https://github.com/saidmg/portfolio.git
+* The URLs of the Video:  https://drive.google.com/file/d/1tr5TaZtkdfvxmXPWkI5LcI_a-iS1Oc4E/view
+* The URLs of the GitHub repositories  :  https://github.com/saidmg/ReadMe-Generator.git
 
 ## User Story
 
